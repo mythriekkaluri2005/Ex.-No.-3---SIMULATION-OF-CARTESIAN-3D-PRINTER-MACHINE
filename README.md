@@ -58,7 +58,8 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
-## Output:![Empd experiment-1](https://github.com/mythriekkaluri2005/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/150231422/7af69421-ba9a-4b88-a815-1917c9861bbf)
+## Output:
+![empd ex-1](https://github.com/mythriekkaluri2005/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/150231422/26f4d28a-c6f4-463f-99d5-b89d4be5cc8b)
 
 
 ### Name: Ekkaluri Mythri
